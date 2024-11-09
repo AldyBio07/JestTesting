@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Input Component render input component 1`] = `
+<div>
+  <div>
+    <input
+      type="text"
+      value=""
+    />
+  </div>
+</div>
+`;
+
+exports[`Input Component render textarea component 1`] = `
+<div>
+  <div>
+    <textarea
+      type="textarea"
+    />
+  </div>
+</div>
+`;

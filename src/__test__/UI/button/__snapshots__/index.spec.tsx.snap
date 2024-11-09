@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button Component render button component 1`] = `
+<div>
+  <button>
+    test
+  </button>
+</div>
+`;
